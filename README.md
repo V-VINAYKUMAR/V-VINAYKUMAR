@@ -13,10 +13,9 @@ projects around **LLMs, RAG, Agentic AI, and System Design**.
 ## 🚀 What I Do
 
 - 🧠 Data Structures & Algorithms
-- ⚙️ Backend Development
+- 🏆Coding in c++ in Data structures
 - 🏗️ System Design & Distributed Systems
 - 🤖 Agentic AI & LLM Applications
-- 📚 Retrieval-Augmented Generation (RAG)
 
 ---
 
@@ -24,19 +23,17 @@ projects around **LLMs, RAG, Agentic AI, and System Design**.
 
 ### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-Advanced-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Expert-green)
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
 
 ### 🤖 AI / Machine Learning
 
-![LLMs](https://img.shields.io/badge/LLMs-Intermediate-yellow)
-![RAG](https://img.shields.io/badge/RAG-Intermediate-yellow)
+![LLMs](https://img.shields.io/badge/LLMs-Advanced-blue)
+![RAG](https://img.shields.io/badge/RAG-Advanced-yellow)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Intermediate-yellow)
-![Embeddings](https://img.shields.io/badge/Embeddings-Intermediate-yellow)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Intermediate-yellow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-Intermediate-yellow)
+![Gen AI](https://img.shields.io/badge/Gemini%20AI-Intermediate-yellow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-yellow)
 
 ### 🗄️ Databases
