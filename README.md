@@ -64,6 +64,18 @@ including task analysis, code generation, testing and iterative improvement.
 
 ---
 
+### 🛡️ VeriScan – AI-Generated Content Detection System
+
+AI-powered detection system designed to identify AI-generated content across text, source code, and images using machine learning and deep learning models. Integrates multiple detection modules through a unified FastAPI backend and React-based frontend.
+
+**Tech:** Python • Machine Learning • Deep Learning • Transformers • FastAPI • React • Docker
+
+🔗 [Repository](https://github.com/V-VINAYKUMAR/plag_system)
+
+---
+
+
+
 ### 📄 Resume RAG — Intelligent Resume Search & Retrieval
 
 A Retrieval-Augmented Generation (RAG) system built to process and
