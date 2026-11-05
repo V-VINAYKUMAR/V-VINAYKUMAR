@@ -60,7 +60,7 @@ including task analysis, code generation, testing and iterative improvement.
 
 **Tech:** Python • Gemini • LLMs • Pytest • Docker
 
-🔗 [Repository](https://github.com/V-VINAYKUMAR/autonomus_engineer_agentic_ai)
+🔗 [Repository](https://github.com/V-VINAYKUMAR/ai_code)   
 
 ---
 
@@ -70,7 +70,7 @@ AI-powered detection system designed to identify AI-generated content across tex
 
 **Tech:** Python • Machine Learning • Deep Learning • Transformers • FastAPI • React • Docker
 
-🔗 [Repository](https://github.com/V-VINAYKUMAR/plag_system)
+🔗 [Repository](https://github.com/V-VINAYKUMAR/plag_detection)
 
 ---
 
